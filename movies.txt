@@ -4,8 +4,19 @@ Lord of the Rings
 Harry Potter 2
 Pétur Pan
 Harry Potter 3
+SO MANY
+GODDAMN MOVIES
+THIS IS AMAZING
+WOW
+HELLO
+MORE ADDS
+WOW
 Harry Potter 4
+<<<<<<< HEAD
 Interstellar
 The Golden Planet
 LOTR: Two Towers
+=======
+Lion King
+>>>>>>> 48ae05402e9f17b4ed4ea88c180ba705f40df076
 
