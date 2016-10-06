@@ -1,4 +1,5 @@
-Harry Potter
+﻿Harry Potter
+Pride and Prejudice
 Lord of the Rings
 Harry Potter 2
 Pétur Pan
@@ -10,4 +11,6 @@ WOW
 HELLO
 MORE ADDS
 WOW
+Harry Potter 4
+Lion King
 
