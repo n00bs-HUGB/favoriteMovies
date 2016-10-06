@@ -12,15 +12,12 @@ HELLO
 MORE ADDS
 WOW
 Harry Potter 4
-<<<<<<< HEAD
 Interstellar
 The Golden Planet
 LOTR: Two Towers
-=======
 Lion King
-<<<<<<< HEAD
->>>>>>> 48ae05402e9f17b4ed4ea88c180ba705f40df076
-=======
 Mulan
->>>>>>> a2bbb9b9d594a0f52eed9bd3287e43506e5f0d5a
-
+seauty and the Beast
+Lion King
+the Hobbit
+Mulan
